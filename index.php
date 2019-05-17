@@ -123,7 +123,7 @@ class BasicFileCache
 
     /**
      * @param string $filename
-     *
+     * . 
      * @return bool
      */
     public function delete($filename)
